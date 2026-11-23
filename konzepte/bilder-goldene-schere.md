@@ -1,0 +1,20 @@
+# Goldene Schere (Ratingen) – Bild-Prompts · Design 3 „Der Fade“, Akzent Gold (CI) · 23.11.2026
+Nano Banana 2.1, 4K, Unlimited. Fremde Fotos nur als Referenz/Edit (alt/ ist in .gitignore).
+
+GS-H1 (16:9) Hero: Photorealistic top-down product photograph of a professional matte black cordless hair clipper with subtle brushed gold details lying diagonally on dark textured concrete, a few tiny dark hair clippings scattered around it, soft warm golden rim light from the upper left, deep black shadows, large empty dark area on the right half for a website headline, 50mm, ultra sharp, true-to-life materials, no text, no logos, no brand names.
+
+GS-H2 (16:9) Clipper freigestellt: Photorealistic top-down product photograph of the same kind of professional matte black cordless hair clipper with subtle brushed gold details, lying horizontally with the blade pointing to the right, centered, isolated on a pure solid black background, no surface, no shadow, no hair, crisp studio rim light on the edges, ultra sharp, no text, no logos.
+
+GS-F1 (16:9) First Frame Fade-Film (Referenz: Innenraum laden): Photorealistic cinematic film still, exact side profile of a young man in his mid twenties sitting upright in a black leather barber chair, his dark brown hair clearly overgrown and messy over the ears and neck, untrimmed scruffy beard, black barber cape, camera fixed at head height, his head in the left-center of the frame. A barber stands on the right: only his torso in a black apron and both forearms are visible, his right hand holds a matte black hair clipper resting at chest height, his left hand rests on the chair. Warm barbershop interior in the background softly blurred, mirrors, warm bulbs, dark tones like the reference image. Warm golden light, 35mm, f/2.8, realistic skin and hair texture, not CGI, no text, no logos.
+
+GS-K1 (16:9) Karriere: Photorealistic cinematic photo of a confident young barber in his early twenties with a short skin fade and a neat beard, tattoos on his forearms, black apron over a black t-shirt, holding a matte black hair clipper, standing in a warm moody barbershop with mirrors and warm bulbs blurred behind him, he looks friendly and proud into the camera, half body, standing on the left third, empty dark space on the right for text, warm golden light, 50mm f/2, realistic, not CGI, no text, no logos.
+
+GS-S1 (4:3) Leistung Haarschnitt: Photorealistic close-up photo from behind and slightly to the side of a man's freshly cut skin fade with a textured top, perfectly smooth gradient from skin to hair, a barber's hand brushes the neck with a soft neck duster, warm barbershop light, dark background, 85mm, ultra sharp hair detail, not CGI, no text.
+
+GS-S2 (4:3) Leistung Haare & Bart: Photorealistic close-up photo of a barber shaping the contour of a man's full beard with a small detail trimmer along the cheek line, the man leans back relaxed in a black barber chair, crisp clean beard line, warm golden light, dark background, 85mm, realistic skin and beard texture, not CGI, no text.
+
+GS-S3 (4:3) Leistung Kinder: Photorealistic photo of a happy boy of about eight years sitting on a booster seat in a black barber chair with a black cape, a barber's hands cut his hair carefully with scissors and a comb, the boy smiles at the mirror, warm friendly barbershop light, 50mm, natural, not CGI, no text.
+
+GS-E1 (16:9) Fassade (Edit von alt/fotos/goldene-schere-strassenansicht1.jpg): Edit the reference image: keep the building, shop window, door, signage and architecture exactly the same, make it a crisp high-end photograph at golden hour with warm light glowing from inside the shop, replace any people with different people or none, no readable car license plates, ultra sharp 4K detail.
+
+GS-E2 (16:9) Innenraum (Edit von alt/fotos/laden.png): Edit the reference image: keep the interior, mirrors, chairs, lights and layout exactly the same, make it a crisp high-end interior photograph with warm golden light, replace all people with different people (one barber cutting a customer's hair), ultra sharp 4K detail.

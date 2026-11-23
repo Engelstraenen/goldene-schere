@@ -1,0 +1,8 @@
+alt/
+.env*
+node_modules/
+*.png.tmp
+assets-roh/
+konzepte/*.jpg
+!konzepte/*_vorschau.jpg
+.DS_Store
