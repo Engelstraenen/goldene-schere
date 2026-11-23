@@ -17,9 +17,9 @@ from PIL import Image
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "assets-roh", "img")
 IMG = os.path.join(ROOT, "site", "assets", "img")
-KEY = {"GS-H1": "hero", "GS-H2": "clipper", "GS-K1": "karriere", "GS-S1": "sHaar", "GS-S2": "sBart", "GS-S3": "sKind",
+KEY = {"GS-HA": "heroA", "GS-HB": "heroB", "GS-H1": "hero", "GS-H2": "clipper", "GS-K1": "karriere", "GS-S1": "sHaar", "GS-S2": "sBart", "GS-S3": "sKind",
        "GS-E1": "fassade", "GS-E2": "gInnen", "GS-G1": "gRasur", "GS-G2": "gWerkzeug", "GS-G3": "gBart", "GS-F1": "fadeStart"}
-FULL = {"hero": .62, "karriere": .22, "fadeStart": .4}   # Fokus x für Handy-Hochkant
+FULL = {"heroA": .6, "heroB": .5, "hero": .62, "karriere": .22, "fadeStart": .4}   # Fokus x für Handy-Hochkant
 os.makedirs(RAW, exist_ok=True)
 
 
