@@ -26,6 +26,7 @@ Gratis zuerst (sjinn Unlimited). Bezahlte Endrender nur nach OK. Demo → GitHub
 - 23.11.2026: Eugen wählt Variante 3 „Der Fade“. Erste echte Seite damit: **Goldene Schere Ratingen-Mitte** (Kumpel von Eugen), alte Seite goldeneschere-herrenfriseur-ratingen.de, alle Inhalte übernehmen.
 - 23.11.2026: Akzentfarbe Gold (#d7b24a, aus dem echten Logo) statt Signalrot, Layout/Typo (Anton, Beton-Schwarz) aus Fade-Storyboard. Echtes Logo als PNG.
 - 23.11.2026: Laden nimmt KEINE Termine („Keine Terminvereinbarung möglich“) → statt Online-Buchung: Live-Öffnungsstatus (echt, berechnet), Wartezeit-Anzeige + Warteschlange als markiertes Beispiel.
+- 23.11.2026: Startbild = GS-HA (echter Barber vor dem Laden, s/w, 4K), Eugen bestätigt. Clipper-Fahrt bleibt.
 - 23.11.2026: Fremde Fotos nur als Referenz/Edit (alt/ in .gitignore); Bewertungen Google 4,8 / 281 (Stand 23.11.2026), kein Tripadvisor-/Trustpilot-Profil gefunden. Kundenstimmen = die 4 Zitate von der alten Seite des Inhabers (Quelle genannt).
 
 ## 11. Goldene Schere – Fakten (Stand 23.11.2026)
