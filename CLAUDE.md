@@ -30,7 +30,7 @@ Gratis zuerst (sjinn Unlimited). Bezahlte Endrender nur nach OK. Demo → GitHub
 - 23.11.2026: Fremde Fotos nur als Referenz/Edit (alt/ in .gitignore); Bewertungen Google 4,8 / 281 (Stand 23.11.2026), kein Tripadvisor-/Trustpilot-Profil gefunden. Kundenstimmen = die 4 Zitate von der alten Seite des Inhabers (Quelle genannt).
 
 - 24.11.2026: Eugen: Seite ist für **Goldene Schere Ratingen-Lintorf** (nicht Mitte). Adresse/Tel./Zeiten/Google auf Lintorf umgestellt; Bilder mit Mitte-Ladenfront (Fassade, Innenraum, Team vor dem Laden) werden durch Lintorf-Edits ersetzt (GSL-1/2/3, Referenz alt/lintorf/ = Google-Fotos, nur lokal). 
-- 24.11.2026: Eugen: Lintorf hat einen ANDEREN Inhaber als Mitte. Alle Mitte-Daten entfernt (Markus Stein, USt-ID, Mitte-Telefon/E-Mails, Facebook-Seite, Kundenzitate der alten Mitte-Seite → markierte Beispielkarten). Impressum/Datenschutz mit Entwurfs-Hinweis, Inhaberdaten fehlen (online nicht auffindbar). Preise (19/29/12 €) stammen von Mitte → mit Inhaber prüfen.
+- 24.11.2026: Eugen: Impressum = Impressum der verlinkten Seite goldeneschere-herrenfriseur-ratingen.de (Markus Stein, Poststr. 2, USt-ID DE815626621) + Filiale Lintorf ergänzt. Kundenzitate, E-Mail, Facebook von seiner Seite bleiben. Nicht nach Inhaberdaten fragen, sondern auf der verlinkten Seite nachsehen.
 
 ## 12. Filiale Lintorf – Fakten (Stand 24.11.2026, Google Maps)
 - Goldene Schere Ratingen-Lintorf, Lintorfer Markt 4, 40885 Ratingen, Tel. 01575 9455704, keine eigene Website.
