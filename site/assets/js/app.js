@@ -38,7 +38,7 @@
     return { d: d, m: (+o.hour % 24) * 60 + (+o.minute) };
   }
   function openInfo() {
-    var b = berlin(), close = b.d >= 1 && b.d <= 5 ? 18 * 60 : (b.d === 6 ? 16 * 60 : 0), open = 9 * 60;
+    var b = berlin(), close = b.d >= 1 && b.d <= 5 ? 18 * 60 : (b.d === 6 ? 15 * 60 : 0), open = 9 * 60;
     var isOpen = close && b.m >= open && b.m < close;
     var nextTxt;
     if (isOpen) nextTxt = 'Jetzt geöffnet · bis ' + (close / 60) + ':00 Uhr';
