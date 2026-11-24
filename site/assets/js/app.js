@@ -15,7 +15,7 @@
   $$('img[data-img]').forEach(function (im) {
     var k = im.getAttribute('data-img'), wrap = im.closest('[data-img-wrap]') || im.closest('.ph');
     if (!M.img[k]) { if (wrap) wrap.hidden = true; else im.hidden = true; if (k === 'hero') root.classList.add('no-hero'); return; }
-    var full = /^(hero|heroA|heroB|karriere|fadeStart)$/.test(k);
+    var full = /^(hero|heroA|heroB|heroL2|heroL3|karriere|fadeStart)$/.test(k);
     im.src = 'assets/img/' + k + (mobile() && M.img[k] === 2 && (!full || portrait()) ? '-m' : '') + '.jpg?v=' + M.v;
     im.addEventListener('error', function () { if (wrap) wrap.hidden = true; else im.hidden = true; });
   });

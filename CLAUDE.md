@@ -31,6 +31,7 @@ Gratis zuerst (sjinn Unlimited). Bezahlte Endrender nur nach OK. Demo → GitHub
 
 - 24.11.2026: Eugen: Seite ist für **Goldene Schere Ratingen-Lintorf** (nicht Mitte). Adresse/Tel./Zeiten/Google auf Lintorf umgestellt; Bilder mit Mitte-Ladenfront (Fassade, Innenraum, Team vor dem Laden) werden durch Lintorf-Edits ersetzt (GSL-1/2/3, Referenz alt/lintorf/ = Google-Fotos, nur lokal). 
 - 24.11.2026: Eugen: Impressum = Impressum der verlinkten Seite goldeneschere-herrenfriseur-ratingen.de (Markus Stein, Poststr. 2, USt-ID DE815626621) + Filiale Lintorf ergänzt. Kundenzitate, E-Mail, Facebook von seiner Seite bleiben. Nicht nach Inhaberdaten fragen, sondern auf der verlinkten Seite nachsehen.
+- 24.11.2026: Eugen: altes Startbild GS-HA war Mitte (Poststraße) → neues Startbild LH-3 „Feierabend“ (Lintorf innen, Backsteinwand + goldener Schriftzug, Barber am Stuhl, fast s/w + Gold), Dreamina Sunburst 2K (2560×1440), Datei heroL3. LH-2 (Clipper-Fade innen) als Reserve heroL2. Keine KI-Personen in Außenszenen (wirken reinkopiert).
 
 ## 12. Filiale Lintorf – Fakten (Stand 24.11.2026, Google Maps)
 - Goldene Schere Ratingen-Lintorf, Lintorfer Markt 4, 40885 Ratingen, Tel. 01575 9455704, keine eigene Website.
