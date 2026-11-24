@@ -29,7 +29,14 @@ Gratis zuerst (sjinn Unlimited). Bezahlte Endrender nur nach OK. Demo → GitHub
 - 23.11.2026: Startbild = GS-HA (echter Barber vor dem Laden, s/w, 4K), Eugen bestätigt. Clipper-Fahrt bleibt.
 - 23.11.2026: Fremde Fotos nur als Referenz/Edit (alt/ in .gitignore); Bewertungen Google 4,8 / 281 (Stand 23.11.2026), kein Tripadvisor-/Trustpilot-Profil gefunden. Kundenstimmen = die 4 Zitate von der alten Seite des Inhabers (Quelle genannt).
 
-## 11. Goldene Schere – Fakten (Stand 23.11.2026)
+- 24.11.2026: Eugen: Seite ist für **Goldene Schere Ratingen-Lintorf** (nicht Mitte). Adresse/Tel./Zeiten/Google auf Lintorf umgestellt; Bilder mit Mitte-Ladenfront (Fassade, Innenraum, Team vor dem Laden) werden durch Lintorf-Edits ersetzt (GSL-1/2/3, Referenz alt/lintorf/ = Google-Fotos, nur lokal). Impressum bleibt vorerst Markus Stein, Poststraße 2 (Inhaber der Kette) – mit Eugen klären.
+
+## 12. Filiale Lintorf – Fakten (Stand 24.11.2026, Google Maps)
+- Goldene Schere Ratingen-Lintorf, Lintorfer Markt 4, 40885 Ratingen, Tel. 01575 9455704, keine eigene Website.
+- Mo–Fr 9–18, Sa 9–15, So zu. Google 4,7 (301), Themen: Termin, Bart, Jungs, Team. Link maps.google.com/?cid=263689196648639723.
+- Fotos bei Google: Innenraum mit Backsteinwand + goldenem Schriftzug, Team, keine Fassade.
+
+## 11. Goldene Schere – Fakten Mitte (Stand 23.11.2026)
 - Poststraße 2, 40878 Ratingen (Google + Impressum; Fußzeile alte Seite sagt „3“), Tel. 02102 8897878 (Kontaktseite zusätzlich 0176 63263808), E-Mail goldeneschere.no1@gmail.com (Impressum: goldeneschereratingenmitte@gmail.com). Inhaber Markus Stein, USt-ID DE815626621.
 - Mo–Fr 9–18, Sa 9–16. Preise: Haarschnitt ab 19 €, Haare & Bart ab 29 €, Kinder ab 12 €.
 - Google: 4,8 (281), Themen: Arbeit, zufrieden, Jungs, Team. Link maps.google.com/?cid=9956827690718121775. Zweite Filiale Ratingen-Lintorf (Lintorfer Markt 4, 4,7 / 301) – nicht auf der alten Seite.

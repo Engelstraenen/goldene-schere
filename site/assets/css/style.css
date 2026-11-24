@@ -257,7 +257,9 @@ h3{font-size:clamp(1.6rem,2.6vw,2.2rem);line-height:1}
   .hero-img{object-position:62% 50%}
   .hero-shade{background:linear-gradient(0deg,rgba(13,13,12,.95) 8%,rgba(13,13,12,.55) 55%,rgba(13,13,12,.3))}
   .clipper{width:120vw}
-  .steps{top:84px;gap:.25rem}
+  .steps{top:64px;left:0;right:0;padding-left:var(--pad)!important;padding-right:var(--pad)!important;flex-direction:row;flex-wrap:wrap;justify-content:space-between;gap:.25rem .5rem;text-align:left;padding:.6rem 0 1.4rem;background:linear-gradient(180deg,rgba(10,10,9,.85),rgba(10,10,9,.55) 60%,transparent)}
+  .steps li{font-size:.86rem}
+  .steps li b{display:block;margin:0 0 .1rem;font-size:.66rem}
   .cards{grid-template-columns:1fr}
   .usp{grid-template-columns:1fr}
   .live-grid,.k-grid{grid-template-columns:1fr}
